@@ -1,1 +1,146 @@
-{"areaPath":"Vesop - Train the Trainer 1","documentversions":null,"fileContainsUniqueId":false,"linkmodule":null,"saveastemplatedata":{"templatedata":{"UpdateDesc":2,"childrens":null,"description":null,"filepath":"Document Templates\/doc 2.smd","headingLevelClass":null,"id":0,"indentstring":null,"index":0,"isDeleted":false,"isExpanded":1,"isGhostLink":false,"isReadOnly":false,"isVisible":1,"isnew":false,"iswitypechange":false,"iswitypechangeexistintemplate":false,"lastchildid":null,"level":0,"linktype":null,"parentid":0,"parentindex":0,"parentpath":null,"parenttypepath":null,"properties":null,"refName":null,"revisionId":0,"sectionhierarchy":null,"title":null,"type":null,"typeGuid":null,"uniqueId":null,"wiConfigureValuePair":null},"workitemtypes":null},"smartdocsmetainfo":null,"smartdocsmetainfoflatlist":[],"template":{"alternateLinkType":"Child,Duplicate","isGhostLink":false,"numbering":0,"rootWI":"Feature","templateGuid":"c60bb41c-dfec-4b8b-8368-e9a416f8b45a","wiMappings":[{"displayProps":[],"displayPropsNumbering":0,"inheritParentItemPropsCollection":[],"isGhostLink":false,"isInheritParentWiProp":false,"isRecursive":true,"label":"Epic","linkTypes":[],"links":[{"displayProps":[],"displayPropsNumbering":0,"inheritParentItemPropsCollection":[],"isGhostLink":false,"isInheritParentWiProp":false,"isRecursive":false,"label":"Feature","linkTypes":[],"links":[],"preferDefaultPropOverInheritParentWiProp":false,"props":[],"refName":null,"wiType":"Feature","wiTypeGuid":"4295CD2B-97B3-4E8B-964D-10D379C5A8AE"},{"displayProps":[],"displayPropsNumbering":0,"inheritParentItemPropsCollection":[],"isGhostLink":false,"isInheritParentWiProp":false,"isRecursive":false,"label":"Feature","linkTypes":[],"links":[],"preferDefaultPropOverInheritParentWiProp":false,"props":[],"refName":null,"wiType":"Feature","wiTypeGuid":"3448F80F-9D4C-4872-B915-95D7C5248FA5"}],"preferDefaultPropOverInheritParentWiProp":false,"props":[],"refName":null,"wiType":"Epic","wiTypeGuid":"20EB7B64-FDA6-4CAB-9978-18FDFFF6E08A"},{"displayProps":[],"displayPropsNumbering":0,"inheritParentItemPropsCollection":[],"isGhostLink":false,"isInheritParentWiProp":false,"isRecursive":true,"label":"User Story","linkTypes":[],"links":[],"preferDefaultPropOverInheritParentWiProp":false,"props":[],"refName":null,"wiType":"User Story","wiTypeGuid":"ADA2A1BB-DA61-498D-B314-0CB600850C32"}]}}
+{
+  "smartdocsmetainfo": {
+    "mongoId": "00000000-0000-0000-0000-000000000000",
+    "uniqueid": "a526a70a-91b6-48a0-8456-f8e84a67d961",
+    "id": 11406,
+    "parentid": 0,
+    "parentpath": "",
+    "index": 0,
+    "parentindex": 0,
+    "children": [
+      {
+        "mongoId": "00000000-0000-0000-0000-000000000000",
+        "uniqueid": "9e0fc0d7-c335-48fc-be71-cecb648c583d",
+        "id": 11407,
+        "parentid": 11406,
+        "parentpath": "/11406",
+        "index": 1,
+        "parentindex": 0,
+        "children": [
+          {
+            "mongoId": "00000000-0000-0000-0000-000000000000",
+            "uniqueid": "21e19fd6-0bbb-43d0-992f-ec75674803fa",
+            "id": 11408,
+            "parentid": 11407,
+            "parentpath": "/11406/11407",
+            "index": 1,
+            "parentindex": 1,
+            "children": null,
+            "identstring": "1.1",
+            "level": 2,
+            "parenttypepath": "/User Story/User Story",
+            "type": "User Story",
+            "linktype": "Child",
+            "typeguid": "ADA2A1BB-DA61-498D-B314-0CB600850C32",
+            "refName": null,
+            "revisionId": 0,
+            "isGhostLink": false,
+            "isWiTypeChange": false,
+            "workItemTypeExistInTemplate": true
+          }
+        ],
+        "identstring": "1",
+        "level": 1,
+        "parenttypepath": "/User Story",
+        "type": "User Story",
+        "linktype": "Child",
+        "typeguid": "ADA2A1BB-DA61-498D-B314-0CB600850C32",
+        "refName": null,
+        "revisionId": 0,
+        "isGhostLink": false,
+        "isWiTypeChange": false,
+        "workItemTypeExistInTemplate": true
+      }
+    ],
+    "identstring": null,
+    "level": 0,
+    "parenttypepath": "/",
+    "type": "Feature",
+    "linktype": null,
+    "typeguid": "",
+    "refName": null,
+    "revisionId": 0,
+    "isGhostLink": false,
+    "isWiTypeChange": false,
+    "workItemTypeExistInTemplate": true
+  },
+  "template": {
+    "wiMappings": [
+      {
+        "isRecursive": true,
+        "label": "Epic",
+        "linkTypes": [],
+        "links": [
+          {
+            "isRecursive": false,
+            "label": "Feature",
+            "linkTypes": [],
+            "links": [],
+            "props": [],
+            "displayProps": [],
+            "inheritParentItemPropsCollection": [],
+            "displayPropsNumbering": 0,
+            "wiType": "Feature",
+            "wiTypeGuid": "4295CD2B-97B3-4E8B-964D-10D379C5A8AE",
+            "isGhostLink": false,
+            "refName": null,
+            "isInheritParentWiProp": false,
+            "preferDefaultPropOverInheritParentWiProp": false
+          },
+          {
+            "isRecursive": false,
+            "label": "Feature",
+            "linkTypes": [],
+            "links": [],
+            "props": [],
+            "displayProps": [],
+            "inheritParentItemPropsCollection": [],
+            "displayPropsNumbering": 0,
+            "wiType": "Feature",
+            "wiTypeGuid": "3448F80F-9D4C-4872-B915-95D7C5248FA5",
+            "isGhostLink": false,
+            "refName": null,
+            "isInheritParentWiProp": false,
+            "preferDefaultPropOverInheritParentWiProp": false
+          }
+        ],
+        "props": [],
+        "displayProps": [],
+        "inheritParentItemPropsCollection": [],
+        "displayPropsNumbering": 0,
+        "wiType": "Epic",
+        "wiTypeGuid": "20EB7B64-FDA6-4CAB-9978-18FDFFF6E08A",
+        "isGhostLink": false,
+        "refName": null,
+        "isInheritParentWiProp": false,
+        "preferDefaultPropOverInheritParentWiProp": false
+      },
+      {
+        "isRecursive": true,
+        "label": "User Story",
+        "linkTypes": [],
+        "links": [],
+        "props": [],
+        "displayProps": [],
+        "inheritParentItemPropsCollection": [],
+        "displayPropsNumbering": 0,
+        "wiType": "User Story",
+        "wiTypeGuid": "ADA2A1BB-DA61-498D-B314-0CB600850C32",
+        "isGhostLink": false,
+        "refName": null,
+        "isInheritParentWiProp": false,
+        "preferDefaultPropOverInheritParentWiProp": false
+      }
+    ],
+    "alternateLinkType": "Child,Duplicate",
+    "templateGuid": "c60bb41c-dfec-4b8b-8368-e9a416f8b45a",
+    "rootWI": "Feature",
+    "numbering": 0,
+    "isGhostLink": false
+  },
+  "linkmodule": null,
+  "saveastemplatedata": null,
+  "documentversions": null,
+  "fileContainsUniqueId": false,
+  "areaPath": "Vesop - Train the Trainer 1"
+}
