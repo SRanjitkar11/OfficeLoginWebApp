@@ -73,7 +73,7 @@
             "level": 2,
             "parenttypepath": "/Epic/Feature",
             "type": "Feature",
-            "linktype": null,
+            "linktype": "Child",
             "typeguid": "4295CD2B-97B3-4E8B-964D-10D379C5A8AE",
             "refName": null,
             "revisionId": 0,
