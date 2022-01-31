@@ -1,1 +1,87 @@
-{"smartdocsmetainfo":{"Id":15306,"ParentId":0,"Index":0,"Title":"","Description":"","IsNew":true,"FilePath":"","ParentPath":"","Type":"Feature","ParentIndex":0,"IndentString":"","Level":0,"Childrens":[],"LastChildId":"0","ParentTypePath":"/","TypeGuid":"","IsGhostLink":false,"UniqueId":""},"template":{"wiMappings":[{"isRecursive":true,"label":"Epic","linkTypes":[],"links":[{"isRecursive":false,"label":"Feature","linkTypes":[],"links":[{"isRecursive":true,"label":"User Story","linkTypes":[],"links":[],"props":[],"displayProps":[],"inheritParentItemPropsCollection":[],"displayPropsNumbering":0,"wiType":"User Story","wiTypeGuid":"CB05745C-DD89-46A3-A33F-8D5DA7084C07","isGhostLink":false,"refName":null,"isInheritParentWiProp":false,"preferDefaultPropOverInheritParentWiProp":false}],"props":[],"displayProps":[],"inheritParentItemPropsCollection":[],"displayPropsNumbering":0,"wiType":"Feature","wiTypeGuid":"4295CD2B-97B3-4E8B-964D-10D379C5A8AE","isGhostLink":false,"refName":null,"isInheritParentWiProp":false,"preferDefaultPropOverInheritParentWiProp":false}],"props":[],"displayProps":[],"inheritParentItemPropsCollection":[],"displayPropsNumbering":0,"wiType":"Epic","wiTypeGuid":"20EB7B64-FDA6-4CAB-9978-18FDFFF6E08A","isGhostLink":false,"refName":null,"isInheritParentWiProp":false,"preferDefaultPropOverInheritParentWiProp":false}],"alternateLinkType":"Child,Duplicate","templateGuid":"a2507233-6394-4b49-8072-77c3506aa96f","rootWI":"Feature","numbering":0,"isGhostLink":false},"linkmodule":null,"saveastemplatedata":null,"documentversions":null,"fileContainsUniqueId":false,"areaPath":"Vesop - Train the Trainer 2"}
+{
+  "smartdocsmetainfo": {
+    "mongoId": "00000000-0000-0000-0000-000000000000",
+    "uniqueid": "f98a1f1c-0777-4493-9b43-3a4355cff4d6",
+    "id": 15306,
+    "parentid": 0,
+    "parentpath": "",
+    "index": 0,
+    "parentindex": 0,
+    "children": null,
+    "identstring": null,
+    "level": 0,
+    "parenttypepath": "/",
+    "type": "Feature",
+    "linktype": null,
+    "typeguid": "",
+    "refName": null,
+    "revisionId": 0,
+    "isGhostLink": false,
+    "isWiTypeChange": false,
+    "workItemTypeExistInTemplate": true
+  },
+  "template": {
+    "wiMappings": [
+      {
+        "isRecursive": true,
+        "label": "Epic",
+        "linkTypes": [],
+        "links": [
+          {
+            "isRecursive": false,
+            "label": "Feature",
+            "linkTypes": [],
+            "links": [
+              {
+                "isRecursive": true,
+                "label": "User Story",
+                "linkTypes": [],
+                "links": [],
+                "props": [],
+                "displayProps": [],
+                "inheritParentItemPropsCollection": [],
+                "displayPropsNumbering": 0,
+                "wiType": "User Story",
+                "wiTypeGuid": "CB05745C-DD89-46A3-A33F-8D5DA7084C07",
+                "isGhostLink": false,
+                "refName": null,
+                "isInheritParentWiProp": false,
+                "preferDefaultPropOverInheritParentWiProp": false
+              }
+            ],
+            "props": [],
+            "displayProps": [],
+            "inheritParentItemPropsCollection": [],
+            "displayPropsNumbering": 0,
+            "wiType": "Feature",
+            "wiTypeGuid": "4295CD2B-97B3-4E8B-964D-10D379C5A8AE",
+            "isGhostLink": false,
+            "refName": null,
+            "isInheritParentWiProp": false,
+            "preferDefaultPropOverInheritParentWiProp": false
+          }
+        ],
+        "props": [],
+        "displayProps": [],
+        "inheritParentItemPropsCollection": [],
+        "displayPropsNumbering": 0,
+        "wiType": "Epic",
+        "wiTypeGuid": "20EB7B64-FDA6-4CAB-9978-18FDFFF6E08A",
+        "isGhostLink": false,
+        "refName": null,
+        "isInheritParentWiProp": false,
+        "preferDefaultPropOverInheritParentWiProp": false
+      }
+    ],
+    "alternateLinkType": "Child,Duplicate",
+    "templateGuid": "a2507233-6394-4b49-8072-77c3506aa96f",
+    "rootWI": "Feature",
+    "numbering": 0,
+    "isGhostLink": false
+  },
+  "linkmodule": null,
+  "saveastemplatedata": null,
+  "documentversions": null,
+  "fileContainsUniqueId": false,
+  "areaPath": "Vesop - Train the Trainer 2"
+}
