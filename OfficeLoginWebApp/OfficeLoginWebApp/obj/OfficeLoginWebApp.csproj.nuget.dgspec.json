@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\Repos\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj": {}
+    "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\Vesop%20-%20Train%20the%20Trainer%202\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\Repos\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj": {
+    "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\Vesop%20-%20Train%20the%20Trainer%202\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\Repos\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\Vesop%20-%20Train%20the%20Trainer%202\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj",
         "projectName": "OfficeLoginWebApp",
-        "projectPath": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\Repos\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj",
+        "projectPath": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\Vesop%20-%20Train%20the%20Trainer%202\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj",
         "packagesPath": "C:\\Users\\suneer.ranjitkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\Repos\\OfficeLoginWebApp\\OfficeLoginWebApp\\obj\\",
+        "outputPath": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\Vesop%20-%20Train%20the%20Trainer%202\\OfficeLoginWebApp\\OfficeLoginWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
