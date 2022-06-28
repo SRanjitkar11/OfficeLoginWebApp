@@ -294,3 +294,6 @@ C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\Repos\OfficeLoginWeb
 C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\Repos\OfficeLoginWebApp\OfficeLoginWebApp\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
 C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\Repos\OfficeLoginWebApp\OfficeLoginWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\Repos\OfficeLoginWebApp\OfficeLoginWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\GitHub\Vesop%20-%20Train%20the%20Trainer%202\OfficeLoginWebApp\OfficeLoginWebApp\obj\Debug\net6.0\OfficeLoginWebApp.dll
+C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\GitHub\Vesop%20-%20Train%20the%20Trainer%202\OfficeLoginWebApp\OfficeLoginWebApp\obj\Debug\net6.0\refint\OfficeLoginWebApp.dll
+C:\Users\suneer.ranjitkar\OneDrive - Vesuvio Labs\Documents\GitHub\Vesop%20-%20Train%20the%20Trainer%202\OfficeLoginWebApp\OfficeLoginWebApp\obj\Debug\net6.0\OfficeLoginWebApp.pdb
