@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8AOkqtzznT6BqotRfYRDKS9EmStjnwE0lXQYsNtktGzVP59bXDdIjnt082mBs9BiZPEtVtz8Q5nqt+0tUemifQ==",
+  "dgSpecHash": "HAp0iqo4DSQB4Kc+A97n/T995uZuECorJW7e2cNo/LTLbKlCe/5cGjze2+ivr5OmGgyp2c/jbp3mPp1VnHOmuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\Vesop%20-%20Train%20the%20Trainer%202\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj",
+  "projectFilePath": "C:\\Users\\suneer.ranjitkar\\OneDrive - Vesuvio Labs\\Documents\\GitHub\\OfficeLoginWebApp\\OfficeLoginWebApp\\OfficeLoginWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suneer.ranjitkar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\suneer.ranjitkar\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.2.2\\azure.extensions.aspnetcore.configuration.secrets.1.2.2.nupkg.sha512",
